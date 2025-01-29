@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif)
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif" alt="MasterHead" width="300"/>
 <h1 align="center">Hi 👋, I'm Anuj Kaushik</h1>
 <h3 align="center">A mobile app developer who loves building seamless and user-friendly digital experiences</h3>
 
