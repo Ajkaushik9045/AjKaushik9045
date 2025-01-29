@@ -3,8 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaushik__aj" target="blank"><img src="https://img.shields.io/twitter/follow/kaushik__aj?logo=twitter&style=for-the-badge" alt="kaushik__aj" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/fbb7083b-6f60-4984-acff-30acdd72884b)
-"/>
+<img align="right" alt="Coding" width="400" src="[![image](https://github.com/user-attachments/assets/fbb7083b-6f60-4984-acff-30acdd72884b)](https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif)"/>
 
 - 🔭 I’m currently working on **Job Token**
 
