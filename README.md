@@ -39,5 +39,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajkaushik9045&show_icons=true&locale=en&layout=compact" alt="ajkaushik9045" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajkaushik9045" alt="ajkaushik9045" /></p>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ajkaushik9045)
+
 
