@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Kaushik</h1>
-<h3 align="center">A passionate Mobile App developer</h3>
+<h3 align="center">A mobile app developer who loves building seamless and user-friendly digital experiences. 📱</h3>
 
 <p align="left"> <a href="https://twitter.com/kaushik__aj" target="blank"><img src="https://img.shields.io/twitter/follow/kaushik__aj?logo=twitter&style=for-the-badge" alt="kaushik__aj" /></a> </p>
 
