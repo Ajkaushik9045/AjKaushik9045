@@ -17,7 +17,9 @@
 <a href="https://instagram.com/kaushik__aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushik__aj" height="30" width="40" /></a>
 </p>
 
-### 📢 Random Dev Quote  
+---
+
+### 📢Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 </p>
@@ -43,6 +45,19 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
+---
+
+
+### 📌 Featured Projects  
+#### 📱 **Brand Bridge App**  
+🔹 **Tech Stack:** Flutter, Firebase, REST API  
+🔹 **Features:** Influencer-Brand Collaboration, Chat, Profile Management  
+
+#### 🎓 **College Management System**  
+🔹 **Tech Stack:** Flutter, Firebase, MySQL  
+🔹 **Features:** Attendance Management, Event Scheduling, Student Grades  
+
+---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajkaushik9045&show_icons=true&locale=en&layout=compact" alt="ajkaushik9045" /></p>
 
 
