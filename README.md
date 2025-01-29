@@ -1,9 +1,10 @@
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif"/>
 <h1 align="center">Hi 👋, I'm Anuj Kaushik</h1>
 <h3 align="center">A mobile app developer who loves building seamless and user-friendly digital experiences</h3>
 
 <p align="left"> <a href="https://twitter.com/kaushik__aj" target="blank"><img src="https://img.shields.io/twitter/follow/kaushik__aj?logo=twitter&style=for-the-badge" alt="kaushik__aj" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif"/>
+
 
 - 🔭 I’m currently working on **Job Token**
 - 🌱 I’m currently learning **Mobile App Development**
