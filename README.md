@@ -61,13 +61,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajkaushik9045&show_icons=true&locale=en&layout=compact" alt="ajkaushik9045" /></p>
 ---
 
-### ⚡ GitHub Profile Stats  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajkaushik9045&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/ajkaushik9045?style=for-the-badge" />
-</p>
 
----
 
 
 
