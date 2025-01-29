@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaushik__aj" target="blank"><img src="https://img.shields.io/twitter/follow/kaushik__aj?logo=twitter&style=for-the-badge" alt="kaushik__aj" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI4MzkyNTAsIm5iZiI6MTcwMjgzODk1MCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE3VDE4NDkxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5MGI3MWZhMTE0MDIxZWNiOWFjNGY2M2QwZWZkYmVhYzYzZjcwNGViN2U5YTA4MjA2N2U1MTBmZTA5ZGUwZjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xQ4_hkihhXSTGEk38g7DUHPG5zDOBDLpY6fFqnkjDHg"/>
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=beziLoeo&id=1EA8E60A1298E3265B83592BE809393EE6A91800&thid=OIP.beziLoeoUuwf1uEzQcyryAHaEK&mediaurl=https%3a%2f%2fmir-s3-cdn-cf.behance.net%2fproject_modules%2ffs%2f579fe1183178475.653aa8931b193.gif&exph=1080&expw=1920&q=animated+coding+gif&simid=608002954442313596&FORM=IRPRST&ck=71F7CC313B5C23C0AB7259DB13815A35&selectedIndex=109&itb=0"/>
 
 - 🔭 I’m currently working on **Job Token**
 
