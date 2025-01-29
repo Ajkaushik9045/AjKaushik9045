@@ -50,11 +50,11 @@
 
 ### 📌 Featured Projects  
 #### 📱 **Brand Bridge App**  
-🔹 **Tech Stack:** Flutter, Firebase, REST API  
+🔹 **Tech Stack:** Flutter, NodeJs, MongoDb, REST API  
 🔹 **Features:** Influencer-Brand Collaboration, Chat, Profile Management  
 
 #### 🎓 **College Management System**  
-🔹 **Tech Stack:** Flutter, Firebase, MySQL  
+🔹 **Tech Stack:** Andriod Studio, Java, Firebase, XML
 🔹 **Features:** Attendance Management, Event Scheduling, Student Grades  
 
 ---
