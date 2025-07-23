@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Job Token**
+- 🔭 I’m currently working on Project **Mera Nivas**
 - 🌱 I’m currently learning **Mobile App Development**
 - 💬 Ask me about **Flutter, Node, MongoDB, AWS**
 - 📫 How to reach me **anujkaushik2609@gmail.com**
