@@ -65,26 +65,53 @@
 
 </p>
 
+---
 
+## 💼 Experience
 
+**Advan Drive Technologies Pvt. Ltd.** | *Full Stack Developer Intern*
+*September 2025 – Present*
+* Developed scalable mobile features using Flutter/BLOC.
+* Built a multi-role vendor-based delivery system with OTP & Google Sign-In.
+
+**MediaJedi** | *Full Stack Developer Intern*
+*April 2025 – June 2025*
+* Maintained backend services using Node.js and MongoDB.
+* Designed RESTful API logic for mortgage calculators and travel platforms.
+
+**JobToken** | *Flutter Developer Intern*
+*November 2024 – April 2025*
+* Integrated Google Maps API for real-time navigation and toll fare estimation.
+
+---
 ---
 
 
-### 📌 Featured Projects  
-#### 📱 **Brand Bridge App**  
-🔹 **Tech Stack:** Flutter, NodeJs, MongoDb, REST API  
-🔹 **Features:** Influencer-Brand Collaboration, Chat, Profile Management  
+## 🚀 Featured Projects
 
-#### 🎓 **College Management System**  
-🔹 **Tech Stack:** Andriod Studio, Java, Firebase, XML
-🔹 **Features:** Attendance Management, Event Scheduling, Student Grades  
+### **Mera Nivas** | Full Stack Developer
+*January 2025 – January 2026 | Remote*
+
+**All-in-One Society Management Platform** enabling security control, real-time communication, and streamlined operations for residential communities.
+
+* **Role-Based Backend:** Designed and developed a system supporting Super Admin, Admin, Staff, and Residents with secure access control.
+* **Visitor Management:** Built a system with QR-based pre-approvals, frequent visitors, helper/maid tracking, and attendance logging.
+* **Financial Modules:** Developed maintenance billing, event invoices, payments, settlements, budgets, and analytics.
+* **Subscription Management:** Implemented lifecycle management including plans, renewals, reminders, and automated cron jobs.
+* **Automated CI/CD:** Led end-to-end development and deployment to Play Store and App Store with GitHub Actions.
+
+### **VibeMap** | Flutter & Backend Developer
+*December 2025 – Present*
+
+**Location-based social media mobile app** for real-time discovery and sharing of nearby experiences.
+
+* **Cross-Platform Architecture:** Developed using Flutter with **BLOC** and **Clean Architecture** for modularity and performance.
+* **Backend Infrastructure:** Designed REST APIs using **Node.js** and **PostgreSQL**; deployed via **Docker**, **AWS EC2**, and **NGINX**.
+* **Real-time Features:** Integrated API caching and efficient media handling to optimize user experience.
+* **OTA Updates:** Configured **Shorebird** for seamless code pushes and environment synchronization.
 
 ---
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajkaushik9045&show_icons=true&locale=en&layout=compact" alt="ajkaushik9045" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajkaushik9045&theme=radical" alt="ajkaushik9045" />
-</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ajkaushik9045&show_icons=true&locale=en&layout=compact&theme=radical" />
