@@ -80,14 +80,16 @@
 🔹 **Features:** Attendance Management, Event Scheduling, Student Grades  
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajkaushik9045&show_icons=true&locale=en&layout=compact" alt="ajkaushik9045" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajkaushik9045&show_icons=true&locale=en&layout=compact" alt="ajkaushik9045" /></p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajkaushik9045&theme=radical" alt="ajkaushik9045" />
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ajkaushik9045&show_icons=true&locale=en&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajkaushik9045&theme=radical" />
 </p>
----
-
-
 
 
 
